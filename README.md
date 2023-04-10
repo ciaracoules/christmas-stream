@@ -132,9 +132,9 @@ To be safe, come into school about an hour beforehand. There are many moving par
 
 ### Advanced FAQ
 
-*Why use GitLab?*
+*Why use GitHub?*
 
-All of the software in this repository is designed to be run portably, which is necessary thanks to restrictions set on the school computers. It is also much easier to host the media files here than store them somewhere in the school where there is a chance it could be deleted, and there is no way to ensure that OBS Studio gets updated without using Git. It also provides insurance that nothing will be irreversably deleted thanks to version control. As for choosing GitLab over GitHub, it is simply down to preference.
+All of the software in this repository is designed to be run portably, which is necessary thanks to restrictions set on the school computers. It is also much easier to host the media files here than store them somewhere in the school where there is a chance it could be deleted, and there is no way to ensure that OBS Studio gets updated without using Git. It also provides insurance that nothing will be irreversably deleted thanks to version control.
 
 *Can I merge any changes to this repository?*
 
@@ -148,4 +148,4 @@ Yes. It presents its own challenges, but given that VDO.Ninja does not require y
 
 ## Troubleshooting
 
-If you are encountering issues with any of the processes used to stream, create an issue for it. Be sure to use the appropriate label for your issue. Google is also your friend, there are many guides for using all the software used in this repo on YouTube, there are very few unique aspects to the files hosted here. Please also create an issue if you would like clarification on any step of this documentation, as it helps to improve it for the years to come.
+If you are encountering issues with any of the processes used to stream, create an issue for it. Be sure to use the appropriate label for your issue. Google is also your friend, there are many guides for using all the software used in this repo on YouTube, there are very few unique aspects to the files hosted here. Please also create an issue if you would like clarification on any step of this documentation, as it helps to improve it for the years to come. It is also encouraged to test out this configuration on a computer beforehand, to make sure everything is still working. Like mentioned before, a good way of doing this is by making a recording or a private stream on YouTube.
